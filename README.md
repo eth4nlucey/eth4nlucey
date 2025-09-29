@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ethan Lucey 👋
 
-<!--
-**eth4nlucey/eth4nlucey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer specialising in workflow automation, process optimisation, and building content distribution platforms in Python, JavaScript, and TypeScript.
 
-Here are some ideas to get you started:
+Most of my repositories are private due to intellectual property and confidentiality. I’m happy to discuss project details or share examples of non-proprietary code during interviews.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Skills
+- Python, JavaScript, TypeScript
+- Workflow Automation
+- API Development
+- Content Distribution Infrastructure
+
+Feel free to connect on LinkedIn or reach out for a chat!
